@@ -128,7 +128,6 @@ The following screenshots were captured during the practical activities:
 - Zenmap network scanning results.
 - Zenmap network topology visualization.
 
-Sensitive network identifiers and confidential technical details have been excluded from the publicly shared evidence.
 
 ---
 
